@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachkova Darya
-- 🌱 I’m currently learning Java Scripts and React
+- 🌱 I’m currently learning Java Script and React
 
 ## Skills
 ### Hard
