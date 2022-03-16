@@ -12,9 +12,8 @@
 
 ### Soft
 - Good communication
-- Handle teamwork
+- Works well in teams
 - Problem-solving 
-
 
 ## Work expiriense
 
@@ -22,8 +21,8 @@ MegaFon Retail company | HTML/CSS developer
 
 01/2020 - present(more than 2years)
 
-The project is online store selling devices. The main customer is the marketing department.
-The main task is the creation promo pages and interfaces for launching promotions.
+I work on the online store which sold electronic devices. 
+The main task is the creation of promo pages and interfaces for launching promotions.
 
 - Implemented landing pages from concept through deployment.
 - Coded advertising blocks, fixed interface bugs, made code refactoring.
