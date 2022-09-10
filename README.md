@@ -27,9 +27,9 @@ MegaFon Retail company | HTML/CSS developer
 
 I worked on the online store which sold electronic devices. The main task is the creation of promo pages and interfaces for launching promotions.
 ###
--Implemented more than 80 landing pages from concept through deployment.
--Implemented new components that increased the speed of creating pages by 50%.
--Coded advertising blocks, fixed interface bugs, refactored code.
--Collaborated with marketing team members to implement new features.
+- Implemented more than 80 landing pages from concept through deployment.
+- Implemented new components that increased the speed of creating pages by 50%.
+- Coded advertising blocks, fixed interface bugs, refactored code.
+- Collaborated with marketing team members to implement new features.
 
 
