@@ -28,3 +28,5 @@ The main task is the creation of promo pages and interfaces for launching promot
 - Coded advertising blocks, fixed interface bugs, made code refactoring.
 - Collaborated with marketing team members to implement new feature developments.
 
+[![codewars](https://www.codewars.com/users/dashaYa/badges/small)](https://www.codewars.com/users/dashaYa) 
+
